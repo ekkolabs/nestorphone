@@ -1,6 +1,8 @@
 # nestorphone
 ![Nestor Recording](https://github.com/ekkolabs/nestorphone/blob/main/images/nestor.jpeg)
 
+Created in MTF Labs Aveiro 2021
+
 ## Contributors
 Luis Clara Gomes
 
