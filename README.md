@@ -6,6 +6,11 @@ The NestorPhone is a polyphonic, multi-sample instrument for Ableton Live 11, fe
 Nestor was recorded by Luis Clara Gomes with a pair of Aquarian Audio H2a-XLR hydrophones, during the [MTF Labs Aveiro 2021](https://mtflabs.net/).
 Ed Rocha Gonçalves programmed, tested and packaged the Ableton rack instrument.
 
+## Installation and Usage
+1. Clone this repository, or alternatively download the provided .alp file.
+2. Install the Ableton Live Pack to your local computer.
+
+
 ## Contributors
 Luis Clara Gomes
 
