@@ -3,7 +3,7 @@
 
 
 The NestorPhone is a polyphonic, multi-sample instrument for Ableton Live 11, featuring underwater recordings of Nestor Peixoto's Overtone Singing techniques.
-Nestor was recorded with two **BRAND??** hydrophones by Luis Clara Gomes, during the [MTF Labs Aveiro 2021](https://mtflabs.net/).
+Nestor was recorded by Luis Clara Gomes with a pair of Aquarian Audio H2a-XLR hydrophones, during the [MTF Labs Aveiro 2021](https://mtflabs.net/).
 Ed Rocha Gonçalves programmed, tested and packaged the Ableton rack instrument.
 
 ## Contributors
