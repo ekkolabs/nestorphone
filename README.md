@@ -17,6 +17,10 @@ Nestor Peixoto
 
 Vesna Petresin
 
+Andrew Dubber
+
+Peter Keen
+
 Rui Maia
 
 Surma
@@ -30,3 +34,5 @@ Guilherme Martins
 Inês Meira
 
 Francisca Siza
+
+Michela Magas
