@@ -10,7 +10,7 @@ Ed Rocha Gonçalves programmed, tested and packaged the Ableton rack instrument.
 1. Clone this repository, or alternatively download the provided .alp file.
 2. Install the Ableton Live Pack to your local computer.
 
-# To-Do
+## To-do list
 - Multi-sample, layers, further documentation, examples
 
 ## Contributors
