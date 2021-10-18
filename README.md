@@ -18,8 +18,6 @@ Surma
 
 Mariana Miguel
 
-André Araújo
-
 Sofia Crespo
 
 Guilherme Martins
